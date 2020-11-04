@@ -5,8 +5,8 @@
     margin: 0;
  ">
   <div style="
-     background-color: red;
-     color: white;  
+     background-color: #ccc;
+     color: #fff;  
   ">
     <h1>Hi! My name is Ana Navarro and I am a student of Analysis and systems development. 👋</h1>
    </div
