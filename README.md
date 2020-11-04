@@ -1,17 +1,13 @@
-<style>
-.container{
+<div style="
     display: flex;
     flex-direction: column;
     padding: 0;
     margin: 0;
- }
-  .container .title{
+ ">
+  <div style="
      background-color: red;
-     color: white;
-  }
-</style>
-<div class='container'>
-  <div class='title'>
+     color: white;  
+  ">
     <h1>Hi! My name is Ana Navarro and I am a student of Analysis and systems development. 👋</h1>
    </div
 </div>
