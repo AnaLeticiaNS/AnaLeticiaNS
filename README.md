@@ -1,4 +1,20 @@
-### Hi! My name is Ana Navarro and I am a student of Analysis and systems development. 👋
+<style>
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+ }
+  .container .title{
+     background-color: red;
+     color: white;
+  }
+</style>
+<div class='container'>
+  <div class='title'>
+    <h1>Hi! My name is Ana Navarro and I am a student of Analysis and systems development. 👋</h1>
+   </div
+</div>
 
 
 ### Contact
